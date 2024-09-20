@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **baosilva@hotmail.com or baosilva4@gmail.com**
 
-- 📄 About me - Started my adult life trying to become a Esports Professional Player, worked n Customer Service for 5 years. Tired of not following my real interests, I decided to adventure myself into the world of programming.](Started my adult life trying to become a Esports Professional Player, worked n Customer Service for 5 years. Tired of not following my real interests, I decided to adventure myself into the world of programming.
-
+- 📄 About me - Started my adult life trying to become a Esports Professional Player, worked n Customer Service for 5 years. Tired of not following my real interests, I decided to adventure myself into the world of programming.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bernardo-silva-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bernardo-silva-developer/" height="30" width="40" /></a>
